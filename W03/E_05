@@ -1,0 +1,14 @@
+weight = 0
+if weight <= 0:
+    print("น้ำหนักไม่ถูกต้อง")
+    exit()
+elif weight <= 1:
+    shipping_fee = 40
+elif 1 < weight <= 3:
+    shipping_fee = 60
+elif 3 < weight <= 5:
+    shipping_fee = 80
+else:
+    shipping_fee = 10
+
+print(f"ค่าส่งของ: {shipping_fee:.2f} บาท")
