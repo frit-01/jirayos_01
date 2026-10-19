@@ -16,7 +16,9 @@ while True:
         continue
         
     if choice == '1':
+        print(f"{'='*73}")
         print("REGISTER EMPLOYEE")
+        print(f"{'='*73}")
         while True:
             full_name = input("Enter Name Surname: ")
             if len(full_name.split()) == 2:
@@ -41,7 +43,9 @@ while True:
                 print("Invalid format! Please try again.")
 
     elif choice == '2':
+        print(f"{'='*73}")  
         print("DELETE EMPLOYEE")
+        print(f"{'='*73}")
         while True:
             del_name = input("Enter name employee to delete: ")
             del_name = del_name.lower()
@@ -56,7 +60,9 @@ while True:
                 print("Invalid name !!")
 
     elif choice == '3':
+        print(f"{'='*73}")
         print("All data display")
+        print(f"{'='*73}")
         print(f"{'No.':<5}{'Name':<15}{'Surname':<15}{'Username':<15}{'Password':<10}{'ID Card'}")
         
         for i in range(len(name_list)):
@@ -67,5 +73,7 @@ while True:
         print()
 
     elif choice == '4':
+        print(f"{'='*73}")
         print("Program exit.")
+        print(f"{'='*73}")
         break
