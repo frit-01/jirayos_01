@@ -1,0 +1,7 @@
+1 | SHOW INCOME EMPLOYEE FULLTIME
+2 | NAME SURNAME SALARY SALE INCOME
+3 | -------------------------------------------------------
+4 | Ratchata Meemonkon 20000 600000 80000
+5 | Taweep Rujirote 23000 540000 77000
+6 | -------------------------------------------------------
+7 | Total Income = 157000
