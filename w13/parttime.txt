@@ -1,0 +1,9 @@
+1 | SHOW INCOME EMPLOYEE PARTTIME
+2 | NAME SURNAME SALARY SALE INCOME
+3 | -------------------------------------------------------
+4 | Pannee Sukdee 15000 450000 60000
+5 | Suwit Pongnonta 18000 560000 74000
+6 | Peerada Ketpong 16000 350000 51000
+7 | Kunya Wongpisasin 19000 490000 68000
+8 | -------------------------------------------------------
+9 | Total Income = 253000
