@@ -1,0 +1,5 @@
+Price: 120.0 X 5 | Total: 600.0 | Discount: 60.0 | Net: 540.0
+Price: 50.0 X 2 | Total: 100.0 | Discount: 0.0 | Net: 100.0
+Price: 300.0 X 4 | Total: 1200.0 | Discount: 180.0 | Net: 1020.0
+Price: 250.0 X 1 | Total: 250.0 | Discount: 12.5| Net: 237.5
+Price: 150.0 X 2 | Total: 300.0 | Discount: 15.0| Net: 285.0

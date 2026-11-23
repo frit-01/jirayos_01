@@ -1,0 +1,12 @@
+1,Odd
+2,Even
+3,Odd
+4,Even
+5,Odd,Multiple of 5
+6,Even
+7,Odd
+8,Even
+9,Odd
+10,Even,Multiple of 5
+11,Odd
+12,Even
